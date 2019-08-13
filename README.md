@@ -32,7 +32,7 @@ When I Installed nvidia GPU driver using
 sudo pacman -S nvidia
 ```
 It just worked out of the box. I was able to get output of ```nvidia-smi```.   
-There was a problem, When I boot my laptop when the login page was shown the screen turned black. I had to write my password blindly. It was a problem. 
+There was a problem, When I boot my laptop, when the login page was shown the screen turned black. I had to write my password blindly. It was a problem. 
 
 ## Solve
 
